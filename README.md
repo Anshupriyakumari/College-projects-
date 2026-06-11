@@ -6,7 +6,7 @@ Hi, I am Anshupriya Kumari 👋
 - B.Tech CSE Student
 - Learning Python, Java, DBMS and Computer Networks
 - Interested in Software Development
-
+-📚 Preparing for GATE and building coding projects
 ## Skills
 - Python
 - Java
