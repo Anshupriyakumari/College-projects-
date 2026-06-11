@@ -1,6 +1,6 @@
 # College Projects
 
-Hi, I am Anshupriya Kumari.
+Hi, I am Anshupriya Kumari 👋
 
 ## About Me
 - B.Tech CSE Student
